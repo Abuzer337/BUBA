@@ -1,0 +1,3 @@
+C:/ITMO/C++/4Laba/cmake-build-debug/CMakeFiles/4Laba.dir
+C:/ITMO/C++/4Laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ITMO/C++/4Laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

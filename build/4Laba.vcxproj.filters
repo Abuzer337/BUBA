@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ефим\OneDrive\Рабочий стол\4Laba\BUBA\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Ефим\OneDrive\Рабочий стол\4Laba\BUBA\include\SparseMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ефим\OneDrive\Рабочий стол\4Laba\BUBA\include\SparseVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ефим\OneDrive\Рабочий стол\4Laba\BUBA\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B3FB958E-31B7-3F3D-AEE6-C1843B2AA11A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{966B6C3F-13E7-3924-A305-8D4AF267FC82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

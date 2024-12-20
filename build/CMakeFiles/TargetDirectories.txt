@@ -1,0 +1,3 @@
+C:/Users/Ефим/OneDrive/Рабочий стол/4Laba/BUBA/build/CMakeFiles/4Laba.dir
+C:/Users/Ефим/OneDrive/Рабочий стол/4Laba/BUBA/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ефим/OneDrive/Рабочий стол/4Laba/BUBA/build/CMakeFiles/ZERO_CHECK.dir
